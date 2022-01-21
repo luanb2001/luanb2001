@@ -1,7 +1,7 @@
-Olá! Eu sou Luan Barbosa Meneghelli👋
+Hi! I'm Luan Barbosa Meneghelli👋
 
-- 💻 *Estudante de Análise e Desenvolvimento de Sistemas*
-- 🌱 *Aprendendo HTML*
+- 💻 *System Analysis and Development Student*
+- 🌱 *Learning HTML*
 
 #
 
