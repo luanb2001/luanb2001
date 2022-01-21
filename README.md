@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá! Eu sou Luan Barbosa Meneghelli👋
 
 <!--
 **luanb2001/luanb2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo HTML
