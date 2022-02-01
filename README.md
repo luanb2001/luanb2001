@@ -7,8 +7,8 @@ Hey There! I'm Luan Barbosa Meneghelli👋
 
 <div align="center">
   <a href="https://github.com/luanb2001">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Avatarlucasrafaeldesouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avatarlucasrafaeldesouza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasrafaeldesouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrafaeldesouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
