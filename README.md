@@ -13,7 +13,7 @@ Hey There! I'm Luan Barbosa Meneghelli👋
   
   <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/luan-barbosa-meneghelli-773b5920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luan.meneghelli@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
+  <!--<a href = "mailto:luan.meneghelli@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>-->
 </div>
  
   ![Snake animation](https://github.com/luanb2001/luanb2001/blob/output/github-contribution-grid-snake.svg)
