@@ -1,7 +1,7 @@
 Hey There! I'm Luan Barbosa Meneghelli👋
 
 - 💻 *System Analysis and Development Student*
-- 🌱 *Learning HTML and CSS*
+- 💻 *Full Stack Developer*
 
 #
 
