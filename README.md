@@ -1,6 +1,5 @@
 Hey There! I'm Luan Barbosa Meneghelli👋
 
-- 💻 *System Analysis and Development Student*
 - 💻 *Full Stack Developer*
 
 #
